@@ -1,0 +1,58 @@
+// variables
+
+
+// font-family
+
+$ff-body : "Open Sans", sans-serif;
+$ff-title : "Raleway", sans-serif;
+
+
+// font-size
+
+$fz-scale : 1.250;
+$fz-base : 18px;
+
+$h6 : $fz-base * $fz-scale;
+$h5 : $h6 * $fz-scale;
+$h4 : $h5 * $fz-scale;
+$h3 : $h4 * $fz-scale;
+$h2 : $h3 * $fz-scale;
+$h1 : $h2 * $fz-scale;
+
+
+// font-weight
+
+$fw-thin : 300;
+$fw-regular : 500;
+$fw-bold : 800;
+
+
+// border-radius
+
+$br-5 : 5px;
+$br-10 : 10px;
+$br-20 : 20px;
+$br-50 : 50%;
+
+
+// line-height
+
+$lh-title : $h2 * 1.1;
+$lh-para : $fz-base * 1.4;
+
+// spacing
+
+$spc8 : 0.5rem; 
+$spc16 : 1rem; 
+$spc24 : 1.5rem; 
+$spc32 : 2rem; 
+$spc40 : 2.5rem; 
+$spc48 : 3rem; 
+$spc56 : 3.5rem; 
+$spc64 : 4rem; 
+
+
+// breakpoints
+
+$tablet : 1008px;
+$mobile : 768px; 

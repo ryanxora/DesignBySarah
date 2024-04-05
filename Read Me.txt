@@ -1,0 +1,31 @@
+**Web Design Brief: Online Portfolio Showcase**
+
+**Client:** Sarah Lee, freelance graphic designer
+
+**Project Overview:**
+Sarah Lee, a freelance graphic designer, needs a straightforward single-page website to showcase her portfolio and attract potential clients. She requires a simple and minimalist design that effectively highlights her work and encourages visitors to contact her for projects.
+
+**Project Goals:**
+1. Create a clean and visually appealing website that showcases Sarah's portfolio in a professional manner.
+2. Provide essential information about Sarah's services, skills, and contact details to potential clients.
+3. Ensure the website is easy to navigate and optimized for viewing on various devices.
+4. Encourage visitor engagement through clear calls-to-action, prompting them to inquire about Sarah's services or view more of her work.
+
+**Key Features:**
+1. **Portfolio Showcase:** A grid layout showcasing Sarah's best work, with each project featuring a thumbnail image and a brief description.
+2. **About Me Section:** A short bio about Sarah, highlighting her background, skills, and passion for design.
+3. **Services Offered:** Clear and concise information about the design services Sarah offers, such as branding, illustration, and web design.
+4. **Contact Form:** A simple contact form allowing visitors to reach out to Sarah directly with project inquiries or collaborations.
+5. **Social Media Links:** Links to Sarah's social media profiles for visitors to connect with her and view more of her work.
+6. **Responsive Design:** Ensure the website is fully responsive and optimized for viewing on desktops, laptops, tablets, and smartphones.
+
+**Design Inspiration:**
+- Clean and minimalist design with plenty of whitespace to let Sarah's work stand out.
+- Use of high-quality images to showcase the details of Sarah's design projects.
+- Consistent branding elements, such as colors and typography, to create a cohesive and professional look.
+
+**Timeline:** 
+The project should be completed within 1 week from the start date to ensure a quick launch of the website.
+
+**Budget:**
+The client has allocated a budget of $200 for the web design and development of the single-page website. Additional expenses for domain registration and hosting will be covered separately by the client.
